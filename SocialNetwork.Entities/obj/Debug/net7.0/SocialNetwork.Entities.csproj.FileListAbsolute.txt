@@ -1,0 +1,15 @@
+C:\Users\yusif\OneDrive\Masaüstü\Api\SocialNetworkAppAPI\SocialNetwork.Entities\bin\Debug\net7.0\SocialNetwork.Entities.deps.json
+C:\Users\yusif\OneDrive\Masaüstü\Api\SocialNetworkAppAPI\SocialNetwork.Entities\bin\Debug\net7.0\SocialNetwork.Entities.dll
+C:\Users\yusif\OneDrive\Masaüstü\Api\SocialNetworkAppAPI\SocialNetwork.Entities\bin\Debug\net7.0\SocialNetwork.Entities.pdb
+C:\Users\yusif\OneDrive\Masaüstü\Api\SocialNetworkAppAPI\SocialNetwork.Entities\bin\Debug\net7.0\SocialNetwork.Core.dll
+C:\Users\yusif\OneDrive\Masaüstü\Api\SocialNetworkAppAPI\SocialNetwork.Entities\bin\Debug\net7.0\SocialNetwork.Core.pdb
+C:\Users\yusif\OneDrive\Masaüstü\Api\SocialNetworkAppAPI\SocialNetwork.Entities\obj\Debug\net7.0\SocialNetwork.Entities.csproj.AssemblyReference.cache
+C:\Users\yusif\OneDrive\Masaüstü\Api\SocialNetworkAppAPI\SocialNetwork.Entities\obj\Debug\net7.0\SocialNetwork.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusif\OneDrive\Masaüstü\Api\SocialNetworkAppAPI\SocialNetwork.Entities\obj\Debug\net7.0\SocialNetwork.Entities.AssemblyInfoInputs.cache
+C:\Users\yusif\OneDrive\Masaüstü\Api\SocialNetworkAppAPI\SocialNetwork.Entities\obj\Debug\net7.0\SocialNetwork.Entities.AssemblyInfo.cs
+C:\Users\yusif\OneDrive\Masaüstü\Api\SocialNetworkAppAPI\SocialNetwork.Entities\obj\Debug\net7.0\SocialNetwork.Entities.csproj.CoreCompileInputs.cache
+C:\Users\yusif\OneDrive\Masaüstü\Api\SocialNetworkAppAPI\SocialNetwork.Entities\obj\Debug\net7.0\SocialNetwork.Entities.csproj.CopyComplete
+C:\Users\yusif\OneDrive\Masaüstü\Api\SocialNetworkAppAPI\SocialNetwork.Entities\obj\Debug\net7.0\SocialNetwork.Entities.dll
+C:\Users\yusif\OneDrive\Masaüstü\Api\SocialNetworkAppAPI\SocialNetwork.Entities\obj\Debug\net7.0\refint\SocialNetwork.Entities.dll
+C:\Users\yusif\OneDrive\Masaüstü\Api\SocialNetworkAppAPI\SocialNetwork.Entities\obj\Debug\net7.0\SocialNetwork.Entities.pdb
+C:\Users\yusif\OneDrive\Masaüstü\Api\SocialNetworkAppAPI\SocialNetwork.Entities\obj\Debug\net7.0\ref\SocialNetwork.Entities.dll
